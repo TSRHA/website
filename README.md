@@ -43,7 +43,7 @@ Hero · About · Current Issue · Our Position · Actions · Latest Updates · R
   - Hero / 記者會等「加入連署」→ SurveyCake 連署表單
   - Join Us「加入 LINE」→ LINE 群組邀請連結
   - Footer「Facebook」→ 官方 Facebook 專頁
-- **國際案例（`international-cases.html`）** — 國際休閒採捕管理制度比較（摘要），含 9 個地區（Western Australia、New Zealand、Hawaii、Mediterranean Coast、Florida、Queensland、Portugal、The Bahamas、Palau）與各地官方來源／制度重點整理，並提供回首頁連結。
+- **國際案例（`international-cases.html`）** — 國際休閒採捕管理制度比較（摘要），含 9 個地區（Western Australia、New Zealand、Hawaii、Mediterranean Coast、Florida、Queensland、Portugal、The Bahamas、Palau）與各地官方來源整理，並提供回首頁連結。
 
 ---
 
