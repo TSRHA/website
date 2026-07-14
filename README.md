@@ -41,7 +41,7 @@ Hero · About · Current Issue · Our Position · Actions · Latest Updates · R
   - Resources「意見陳述書」→ <https://ocean-petition-tw.github.io/formal-opinion.html>（外部）
   - Resources「國際案例」→ `international-cases.html`（站內子頁）
   - Hero / 記者會等「加入連署」→ SurveyCake 連署表單
-  - Join Us「加入 LINE」→ LINE 群組邀請連結
+  - 頂部功能表「Join Us」與 Join Us「加入 LINE」→ LINE 群組邀請連結
   - Footer「Facebook」→ 官方 Facebook 專頁
 - **國際案例（`international-cases.html`）** — 國際休閒採捕管理制度比較（摘要），含 9 個地區（Western Australia、New Zealand、Hawaii、Mediterranean Coast、Florida、Queensland、Portugal、The Bahamas、Palau）與各地官方來源整理，並提供回首頁連結。
 
