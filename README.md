@@ -23,6 +23,7 @@ Taiwan Sustainable Recreational Harvest Alliance (TSRHA) 官方 Landing Page。
 .
 ├── index.html              # 主頁面（所有 section）
 ├── international-cases.html # 國際休閒採捕管理制度比較（摘要）子頁
+├── faq.html                # 常見問題與回答 FAQ 子頁
 ├── styles.css              # 全站樣式（深藍海洋、極簡留白）
 ├── script.js               # 互動增強（漸進式，無 JS 也可閱讀）
 ├── 404.html                # 找不到頁面時導回首頁
@@ -40,10 +41,12 @@ Hero · About · Current Issue · Our Position · Actions · Latest Updates · R
   - Current Issue「閱讀完整內容」→ <https://ocean-petition-tw.github.io/>（外部，`target="_blank" rel="noopener noreferrer"`）
   - Resources「意見陳述書」→ <https://ocean-petition-tw.github.io/formal-opinion.html>（外部）
   - Resources「國際案例」→ `international-cases.html`（站內子頁）
+  - Resources「FAQ」→ `faq.html`（站內子頁）
   - Hero / 記者會等「加入連署」→ SurveyCake 連署表單
   - 頂部功能表「Join Us」與 Join Us「加入 LINE」→ LINE 群組邀請連結
   - Footer「Facebook」→ 官方 Facebook 專頁
 - **國際案例（`international-cases.html`）** — 國際休閒採捕管理制度比較（摘要），含 9 個地區（Western Australia、New Zealand、Hawaii、Mediterranean Coast、Florida、Queensland、Portugal、The Bahamas、Palau）與各地官方來源整理，並提供回首頁連結。
+- **FAQ（`faq.html`）** — 常見問題與回答，附科學文獻與國際政策參考資料。
 
 ---
 

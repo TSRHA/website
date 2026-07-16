@@ -741,6 +741,92 @@ img, svg { display: block; max-width: 100%; }
 .callout p { color: var(--ink-soft); margin: 0; }
 
 /* ============================================================
+   FAQ
+   ============================================================ */
+.faq-container {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+}
+.faq-card {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: clamp(24px, 4vw, 34px);
+  box-shadow: var(--shadow-sm);
+}
+.faq-card h3 {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  margin: 0 0 18px;
+  color: var(--navy-800);
+  font-size: clamp(1.08rem, 2.4vw, 1.35rem);
+}
+.faq-card h3 > span,
+.faq-answer > span {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 32px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  font-size: .9rem;
+  font-weight: 800;
+}
+.faq-card h3 > span {
+  background: var(--navy-800);
+  color: #fff;
+}
+.faq-answer {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  color: var(--ink-soft);
+}
+.faq-answer > span {
+  background: rgba(91, 200, 214, .18);
+  color: var(--navy-800);
+}
+.faq-answer p + p { margin-top: 10px; }
+.faq-answer strong { color: var(--navy-800); }
+.faq-refs {
+  margin-top: 22px;
+  margin-left: 46px;
+  padding: 18px 20px;
+  background: var(--paper-2);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--teal-400);
+  border-radius: var(--radius-sm);
+}
+.faq-refs p {
+  margin: 0 0 10px;
+  color: var(--blue-500);
+  font-size: .78rem;
+  font-weight: 800;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+.faq-refs ul {
+  margin: 0;
+  padding-left: 1.2em;
+  color: var(--ink-soft);
+}
+.faq-refs li + li { margin-top: 8px; }
+.faq-refs a {
+  color: var(--blue-500);
+  font-weight: 700;
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+.faq-refs a:hover { color: var(--navy-700); text-decoration: underline; }
+@media (max-width: 640px) {
+  .faq-answer { align-items: flex-start; }
+  .faq-refs { margin-left: 0; }
+}
+
+/* ============================================================
    Back to top
    ============================================================ */
 .to-top {
